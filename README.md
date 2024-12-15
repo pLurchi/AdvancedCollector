@@ -1,2 +1,4 @@
 # AdvancedCollector
-Minecraft client plugin collect blocks and items achievement
+Minecraft Client Plugin
+
+Get achievements for collecting blocks and items
